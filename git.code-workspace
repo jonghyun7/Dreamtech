@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Apache24\\htdocs\\HotelPhp"
+		},
+		{
+			"path": "C:\\Apache24\\htdocs\\classroombookings-1.0.7"
+		},
+		{
+			"path": "C:\\Apache24\\htdocs\\booked-2.7.2"
+		},
+		{
+			"path": "C:\\Apache24\\htdocs\\happycgi"
+		},
+		{
+			"path": "C:\\Apache24\\htdocs\\addtime-first"
+		},
+		{
+			"path": "C:\\Apache24\\htdocs\\easyappointments-master"
+		},
+		{
+			"path": "C:\\Apache24\\htdocs\\easyappointments_1.3.2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"php.executablePath": "C:/php-7/php.exe",
+		"php.validate.executablePath": "C:/php-7/php.exe",
+		"php.validate.run": "onType",
+		"liveServer.settings.multiRootWorkspaceName": "RPS_BOARD-master"
+	}
+}
